@@ -1,0 +1,6 @@
+# requirements.txt
+Flask>=2.0
+gunicorn>=20.0
+gradio_client>=0.10.0
+requests # Often useful, good practice to include
+Flask-Cors>=3.0 # Add Flask-CORS
